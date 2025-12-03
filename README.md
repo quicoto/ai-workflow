@@ -9,5 +9,5 @@ My set of commands and rules for AI.
 - VSCode
 - GitHub Copilot Enterprise (Agent)
 - Model:
-  - Claude Sonnet 4.5: for coding requests (premium)
+  - Claude Sonnet 4.5: main driver for coding/thinking requests (premium)
   - GPT-4.1: easier tasks where premium requests are not needed.
