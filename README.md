@@ -1,4 +1,4 @@
-# ai-workflow
+# AI Workflow
 
 My set of commands and rules for AI.
 
