@@ -98,4 +98,4 @@ Create a detailed markdown report with the following items:
 - **Overall Assessment:** [Good/Needs Work/Ready to Merge]
 ```
 
-Do not create a file but return it in the chat as a code block.
+Do not create a file but return it in the chat.
