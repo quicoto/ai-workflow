@@ -1,8 +1,8 @@
 # Code changes summary
 
-Please do the following and generate a markdown summary for me I can easily copy and paste:
+Please generate a markdown summary of my changes in this branch.
 
-The markdown command will provide a structured reflection including these:
+Follow this template adding items where applicable for each section:
 
 ```markdown
 ## 📋 Summary of Changes
@@ -15,19 +15,19 @@ The markdown command will provide a structured reflection including these:
 
 ## 🐛 Issues Fixed
 
-(Bugs resolved and problems addressed)
+(Bugs resolved and problems addressed, include the JIRA ticket ID that start with MAMCOM-XYZ)
 
 ## ♿ Accessibility Improvements
 
-(UX/accessibility enhancements (if any, otherwise N/A))
+(UX/accessibility enhancements (if any, otherwise N/A). Do not include recommendations)
 
 ## 🧪 Testing Updates
 
-(Test coverage and quality improvements (if any, otherwise N/A))
+(Test coverage and quality improvements (if any, otherwise N/A). Do not include recommendations)
 
 ## 📚 Documentation Changes
 
-(README updates, comments, and docs (if any, otherwise N/A))
+(README updates, comments, and docs (if any, otherwise N/A). Do not include recommendations)
 ```
 
 Do not create a file but return it in the chat as a code block.
