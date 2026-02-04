@@ -47,14 +47,6 @@ You are an expert Senior Frontend Developer code reviewer.
 Create a detailed markdown report with the following items:
 
 ```markdown
-## Code Review Summary
-
-**Branch:** [current-branch-name]
-**Comparing:** [current-branch] → main
-**Files Changed:** [count]
-
----
-
 ## 🔴 Critical Issues (Must Fix)
 
 ### [File Path]
