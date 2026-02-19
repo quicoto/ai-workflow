@@ -1,6 +1,6 @@
 # Code changes summary
 
-Please generate a markdown summary of my changes in this branch.
+Please generate a markdown summary of my changes in this commit XXXXXXX
 
 Follow this template adding items where applicable for each section:
 
