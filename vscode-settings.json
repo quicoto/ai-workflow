@@ -1,0 +1,20 @@
+{
+    "chat.tools.terminal.autoApprove": {
+      "git fetch": true,
+      "git checkout": true,
+      "git pull": true,
+      "npm run test": true,
+      "npm run lint": true,
+      "/^git --no-pager log --oneline develop\\.\\.HEAD$/": {
+        "approve": true,
+        "matchCommandLine": true
+      },
+      "./node/npm": true,
+      "git rev-parse": true,
+      "/^find .+ \\| xargs /": {
+        "approve": true,
+        "matchCommandLine": true
+      },
+      "find ": true
+    }
+}
