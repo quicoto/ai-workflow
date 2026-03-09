@@ -1,6 +1,10 @@
-# Code changes summary
+---
+name: frontend-pull-request-summary
+description: FE PR summary
+---
 
-Please generate a markdown summary of my changes in this commit XXXXXXX
+1. Please generate a markdown summary of my changes in this branch.
+2. Use this Git command `git diff develop...HEAD`
 
 Follow this template adding items where applicable for each section:
 
