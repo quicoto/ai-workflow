@@ -3,8 +3,14 @@ name: frontend-pull-request-summary
 description: FE PR summary
 ---
 
-1. Please generate a markdown summary of my changes in this branch.
-2. Use this Git command `git diff develop...HEAD`
+Do not create any script, simply run git commands in the terminal.
+
+1. Please generate a markdown summary of my changes in this branch
+2. Stash any uncommitted changes before continuing.
+3. Switch to `develop` branch and pull the latest changes.
+4. Switch back to the current branch
+5. Apply the stashed changes (if any) back to the current branch.
+6. Use this Git command `git diff develop...HEAD`
 
 Follow this template adding items where applicable for each section:
 
